@@ -23,8 +23,7 @@ Microfluidic systems operate at extremely low Reynolds numbers, resulting in str
 * **Geometric Superiority:** The 3-inlet herringbone geometry vastly out-performed the plain channel, achieving a ~0.98 MI compared to a linear, sluggish 0.56 MI in the smooth control channel.
 
 ## 📁 Repository Structure
-* `/CAD-Models` — Contains `.step` files for all 3 configurations.
-* `/Simulation-Data` — Contains tabulated data points, mesh details, and raw mixing metrics.
+
 * `ME 224 Report.pdf` — The comprehensive final project report document.
 
 ## 👥 Authors (Group 1)
